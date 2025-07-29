@@ -1,12 +1,12 @@
 # WebArena Benchmark Evaluation Analysis for Meka v1
 
-This folder contains source data & analysis scripts for our WebArena evaluation methodology, specifically documenting the 161 tasks that were excluded from our final results and why.
+This folder contains source data & analysis scripts for our WebArena evaluation methodology, specifically documenting the 161 tasks that were excluded from our final results and why. For a full read-up on our evaluation methodology and set-up, read [here](https://blog.withmeka.com/meka-achieves-state-of-the-art-performance-for-computer-use/).
 
 ## Overview
 
 Meka achieved a **72.7% success rate** on WebArena. This result was calculated from **651 possible tasks** after excluding **161 impossible tasks** from the original 812-task benchmark.
 
-This folder contains the full audit trail showing which tasks were excluded and the rationale behind each exclusion, ensuring complete reproducibility and transparency for the research community.
+This folder contains the full audit trail showing which tasks were excluded and the rationale behind each exclusion, ensuring complete reproducibility and transparency for the research community. To learn more about our open source agent framework that achieved these benchmarks, check out our repo [here](https://github.com/trymeka/agent).
 
 ## Key Statistics
 
